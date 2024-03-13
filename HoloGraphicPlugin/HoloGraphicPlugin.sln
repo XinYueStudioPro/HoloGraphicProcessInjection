@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloGraphicPlugin", "HoloGraphicPlugin\HoloGraphicPlugin.csproj", "{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Debug|x64.ActiveCfg = Debug|x64
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Debug|x64.Build.0 = Debug|x64
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Release|x64.ActiveCfg = Release|x64
+		{DDA1E0A7-4D6A-4D79-A049-35FDB7B41013}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF43592B-B898-440B-9AE0-C80774B41058}
+	EndGlobalSection
+EndGlobal
